@@ -53,26 +53,11 @@ if you don't already have it.
 2. Import the sample into Android Studio.
 3. Build and run the sample.
 
-License
--------
 
-Copyright 2018 Google, Inc.
+<img width="280" alt="Screen Shot 2021-12-03 at 1 13 43 AM" src="https://user-images.githubusercontent.com/92260200/144511702-8c2db90d-a68d-49f8-bfd9-8f0a73f4ea78.png"> <img width="280" alt="Screen Shot 2021-12-03 at 1 14 47 AM" src="https://user-images.githubusercontent.com/92260200/144512033-bd350bad-06af-48f6-91e4-1a40b6282090.png">
 
-All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav
-and *.ogg) are licensed under the CC BY 4.0 license. All other files are
-licensed under the Apache 2 license.
+<img width="280" alt="Screen Shot 2021-12-03 at 1 15 06 AM" src="https://user-images.githubusercontent.com/92260200/144512061-d95ce9b9-0291-4a31-be35-9c49d9e1302e.png"> <img width="280" alt="Screen Shot 2021-12-03 at 1 15 50 AM" src="https://user-images.githubusercontent.com/92260200/144512069-4d2ba0c3-b9b7-48ce-8281-4d19a2130815.png">
 
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the LICENSE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
+<img width="280" alt="Screen Shot 2021-12-03 at 1 15 37 AM" src="https://user-images.githubusercontent.com/92260200/144512081-f5a83ac9-d39d-47d3-aade-6fb1969d303a.png">
 
-  http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
