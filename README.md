@@ -4,8 +4,6 @@ WorkManager Codelab
 This repository contains the code for the
 [WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
 
-Java version
---------------
 
 The Java version of this codelab is available under the
 [`Java`](https://github.com/googlecodelabs/android-workmanager/tree/java) branch of this
@@ -14,9 +12,6 @@ repository.
 Introduction
 ------------
 
-At I/O 2018 Google announced [Android Jetpack](https://developer.android.com//jetpack/),
-a collection of libraries, tools and architectural guidance to accelerate and simplify the
-development of great Android apps. One of those libraries is the
 [WorkManager library](https://developer.android.com/topic/libraries/architecture/workmanager/).
 The WorkManager library provides a unified API for deferrable one-off or recurring background tasks
 that need guaranteed execution. You can learn more by reading the
@@ -28,16 +23,7 @@ or doing the
 Pre-requisites
 --------------
 
-* Android Studio 3.6 or later and you know how to use it.
 
-* Make sure Android Studio is updated, as well as your SDK and Gradle.
-Otherwise, you may have to wait for a while until all the updates are done.
-
-* A device or emulator that runs API level 16+
-
-You need to be solidly familiar with the Kotlin programming language,
-object-oriented design concepts, and Android Development Fundamentals.
-In particular:
 
 * Basic layouts, widgets and [View Bindings](https://d.android.com/topic/libraries/view-binding)
 * Some familiarity with Uris and File I/O
